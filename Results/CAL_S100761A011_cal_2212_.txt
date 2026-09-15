@@ -1,0 +1,34 @@
+CALIBRATION RESULTS
+Serial#: 100761
+Firmware: 2212
+File: S100761A011_cal_2212_1.ad2cp
+
+Cal struct field 1 of 3
+fm90
+TS_theo(f=73863.64) = -43.99
+TS_theo(f=82386.36) = -44.70
+TS_theo(f=90909.09) = -43.40
+TS_theo(f=99431.82) = -44.50
+TS_theo(f=107954.55) = -44.26
+TS_meas(f=73863.64) = 16.61
+TS_meas(f=82386.36) = 17.59
+TS_meas(f=90909.09) = 19.74
+TS_meas(f=99431.82) = 19.24
+TS_meas(f=107954.55) = 18.09
+CALGAIN(f=73863.64) = -60.60
+CALGAIN(f=82386.36) = -62.29
+CALGAIN(f=90909.09) = -63.14
+CALGAIN(f=99431.82) = -63.73
+CALGAIN(f=107954.55) = -62.35
+
+Cal struct field 2 of 3
+nb70
+TS_theo(f=70000.00) = -43.10
+TS_meas(f=70000.00) = 2.63
+CALGAIN(f=70000.00) = -45.73
+
+Cal struct field 3 of 3
+nb120
+TS_theo(f=120000.00) = -44.42
+TS_meas(f=120000.00) = 8.29
+CALGAIN(f=120000.00) = -52.71
