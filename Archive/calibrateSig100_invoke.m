@@ -42,7 +42,7 @@ calibration_table = table();
 % inpath = 'D:\NortekData\ADCPE-calib-20180904\100757_Data.247.00000'
 % infn = 'Data.247.00000.ad2cp.00000.mat'
 
-inpath = 'C:\Work\Moorings\_data_mat_from_midas';
+inpath = 'D:\dev\Sig100-Calibration-data\Sig100-calibration-2019\_data_mat_from_midas'
 
 infnlist = {...
     'S100757A003_cal2208_0.ad2cp.00000.mat',
